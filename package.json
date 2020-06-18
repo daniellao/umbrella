@@ -6,7 +6,7 @@
     "start": "webpack-dev-server"
   },
   "devDependencies": {
-    "angular": "1.7.9",
+    "angular": "1.8.0",
     "@types/angular": "1.6.57",
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.4",
